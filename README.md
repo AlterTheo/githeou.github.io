@@ -1,2 +1,2 @@
-# githeou.github.io
+# githeouResume.github.io
 GitHub pages
